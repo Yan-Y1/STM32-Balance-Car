@@ -1,0 +1,28 @@
+# Keil MDK build outputs
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.hex
+*.bin
+*.axf
+*.map
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.sct
+*.htm
+*.build_log.htm
+*.iex
+
+# IDE temp files
+.vscode/
+.trae/
+.screenshots/
+
+# OS files
+Thumbs.db
+.DS_Store
